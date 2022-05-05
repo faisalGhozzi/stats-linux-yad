@@ -1,0 +1,15 @@
+-h|--help   Afficher le fichier help detaillé a partir d'un fichier text
+
+-g          Afficher ln menu textuel et gerer les fonctionnalité de façon  graphique
+
+-m          Afficher le menu textuel
+
+-T          Afficher taille total occupée
+
+-t          Afficher taille total occupée par les dossier et fichiers cachés 
+
+-N          Afficher nombre de fichiers/répertoires non vides/liens symboliques
+
+-n          Afficher nombre des petits fichiers < 512 ko et gros fichiers > 15 Mo
+
+-d          Afficher nombre de fichiers avec certaine extension
